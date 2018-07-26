@@ -5,6 +5,7 @@ Machine learning algorithms implemented in Python 3.5
 1. Linear Regression
 2. Multiple Linear Regression
 3. Polynomial Linear Regression
+4. SVM(Support Vector Machine)
 
 ## Running Locally
 * Clone this repo: `https://github.com/pranay414/ML-Algorithms.git`
